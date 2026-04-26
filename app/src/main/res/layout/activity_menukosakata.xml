@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundhafalan"
+    tools:context=".menukosakata">
+
+
+    <ImageView
+        android:layout_width="191dp"
+        android:layout_height="195dp"
+        android:src="@drawable/kosakata"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KOSAKATA"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="-25dp"
+        />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        app:cardCornerRadius="8dp"
+        app:cardBackgroundColor="@color/skyBlue"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:gravity="center_vertical">
+
+            <!-- Ikon keluarga -->
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/iconfamily"
+                android:scaleType="centerInside"
+                android:layout_marginEnd="12dp" />
+
+            <!-- Teks Family & Keluarga -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="FAMILY"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Keluarga"
+                    android:textSize="15sp"
+                    android:textColor="@android:color/darker_gray"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <!-- Panah kanan -->
+            <ImageView
+                android:id="@+id/btnfamily"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_next_45" />
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="8dp"
+        app:cardBackgroundColor="@color/skyBlue"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:gravity="center_vertical">
+
+            <!-- Ikon keluarga -->
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/iconcolor"
+                android:scaleType="centerInside"
+                android:layout_marginEnd="12dp" />
+
+            <!-- Teks Family & Keluarga -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="COLOR"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Warna"
+                    android:textSize="15sp"
+                    android:textColor="@android:color/darker_gray"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <!-- Panah kanan -->
+            <ImageView
+                android:id="@+id/btncolor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_next_45"/>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="8dp"
+        app:cardBackgroundColor="@color/skyBlue"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="16dp"
+            android:gravity="center_vertical">
+
+            <!-- Ikon keluarga -->
+            <ImageView
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/iconprofesi"
+                android:scaleType="centerInside"
+                android:layout_marginEnd="12dp" />
+
+            <!-- Teks Family & Keluarga -->
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="PROFESSIONS"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/black"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Profesi"
+                    android:textSize="15sp"
+                    android:textColor="@android:color/darker_gray"
+                    android:textStyle="bold"/>
+            </LinearLayout>
+
+            <!-- Panah kanan -->
+            <ImageView
+                android:id="@+id/btnprofesi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_next_45"/>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnback"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:background="@drawable/btn_oval"
+        android:text="BACK"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:textAllCaps="true"
+        android:textColor="@android:color/black"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

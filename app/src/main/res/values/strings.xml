@@ -1,0 +1,476 @@
+<resources>
+    <string name="app_name">Learn English</string>
+
+    <string name="story_english1">
+A: Excuse me, do you know the address of the post office?\n
+B: Yes, I do. It’s on Merdeka Street, right next to the city library.\n
+A: Oh, really? I think I’ve passed that area before, but I didn’t notice the post office.\n
+B: It’s quite small, and there are some trees in front of it, so it’s easy to miss.\n
+A: I see. Is it far from here?\n
+B: Not really. It’s about a ten-minute walk from this park.\n
+A: Great! Could you please tell me how to get there?\n
+B: Sure. Go straight along this road until you reach the first traffic light. Then turn left. Walk about 300 meters, and you’ll see the city library on your right. The post office is just beside it.\n
+A: That sounds simple enough. Is there any landmark I should look for along the way?\n
+B: Yes, there’s a big supermarket called “Mega Mart” before the traffic light. If you see it, you’re going in the right direction.\n
+A: Perfect! I actually need to send a package today, so I hope it’s still open.\n
+B: It should be. The post office usually closes at 4 p.m. What time is it now?\n
+A: It’s around 2:30 p.m., so I think I have enough time.\n
+B: Definitely. If you hurry a bit, you’ll get there before three.\n
+A: Thank you very much for your help and the clear directions.\n
+B: You’re welcome! Be careful when crossing the road, and have a nice day.\n
+A: You too! Goodbye!
+    </string>
+
+    <string name="story_indonesia1">
+A: Permisi, apakah kamu tahu alamat kantor pos?\n
+B: Ya, tahu. Itu ada di Jalan Merdeka, tepat di sebelah perpustakaan kota.\n
+A: Oh, benar? Sepertinya aku pernah melewati daerah itu, tapi aku tidak melihat kantor posnya.\n
+B: Kantornya memang agak kecil, dan ada beberapa pohon di depannya, jadi mudah terlewat.\n
+A: Begitu ya. Apakah jauh dari sini?\n
+B: Tidak juga. Sekitar sepuluh menit berjalan kaki dari taman ini.\n
+A: Bagus! Bisakah kamu beritahu aku bagaimana cara menuju ke sana?\n
+B: Tentu. Jalan lurus saja di jalan ini sampai kamu tiba di lampu merah pertama, lalu belok kiri. Jalan sekitar 300 meter, kamu akan melihat perpustakaan kota di sebelah kanan. Kantor posnya ada tepat di sampingnya.\n
+A: Kedengarannya cukup mudah. Apakah ada tanda khusus yang bisa aku lihat di sepanjang jalan?\n
+B: Ya, ada supermarket besar bernama “Mega Mart” sebelum lampu merah. Kalau kamu melihat itu, berarti kamu sudah di jalan yang benar.\n
+A: Sempurna! Aku memang ingin mengirim paket hari ini, semoga masih buka.\n
+B: Seharusnya masih. Kantor pos biasanya tutup jam 4 sore. Sekarang jam berapa?\n
+A: Sekitar jam setengah tiga, jadi sepertinya aku masih punya waktu.\n
+B: Benar. Kalau kamu sedikit cepat, kamu akan sampai sebelum jam tiga.\n
+A: Terima kasih banyak atas bantuan dan arahannya.\n
+B: Sama-sama! Hati-hati di jalan dan semoga harimu menyenangkan.\n
+A: Kamu juga! Sampai jumpa!
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_english2">
+A: Hey, Rina! Do you know what today’s assignment is?\n
+B: Hmm, I think we have English and Math assignments today.\n
+A: Really? I thought the Math assignment was due next week.\n
+B: No, Miss Sari said yesterday that we have to submit it by tomorrow morning.\n
+A: Oh no! I haven’t even started it yet. What’s the topic again?\n
+B: It’s about fractions and decimals. We need to solve ten questions from the workbook.\n
+A: Ten questions? That’s a lot!\n
+B: Don’t worry. Some of them are quite easy. I already finished half of it last night.\n
+A: You’re so diligent, Rina. I wish I could be like you.\n
+B: Haha, thank you. How about the English assignment? Have you done that one?\n
+A: I only wrote the first paragraph. We have to make a short essay about our favorite place, right?\n
+B: Yes, around 100 to 150 words. I wrote about my grandmother’s house in the village.\n
+A: That sounds nice! I’m planning to write about the beach I visited last holiday.\n
+B: That’s a great idea! Don’t forget to check your grammar and spelling before submitting.\n
+A: Thanks for the reminder. I’ll do it tonight.\n
+B: Good. If you need help, just text me. We can study together online.\n
+A: That would be great. Thanks a lot, Rina!\n
+B: You’re welcome! Let’s do our best and get good grades.\n
+A: Agreed! Let’s go to the library after lunch to finish them.\n
+B: Sure, see you there!
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_indonesia2">
+A: Hai, Rina! Kamu tahu nggak tugas apa yang harus dikumpulkan hari ini?\n
+B: Hmm, sepertinya hari ini ada tugas Bahasa Inggris dan Matematika.\n
+A: Serius? Kukira tugas Matematika dikumpulkan minggu depan.\n
+B: Bukan, kemarin Bu Sari bilang harus dikumpulkan besok pagi.\n
+A: Aduh! Aku belum mulai sama sekali. Topiknya apa, ya?\n
+B: Tentang pecahan dan desimal. Kita harus menyelesaikan sepuluh soal dari buku latihan.\n
+A: Sepuluh soal? Banyak juga!\n
+B: Jangan khawatir. Beberapa soal cukup mudah kok. Aku sudah mengerjakan setengahnya tadi malam.\n
+A: Kamu rajin banget, Rina. Aku jadi pengen bisa sepertimu.\n
+B: Haha, terima kasih. Kalau tugas Bahasa Inggris, kamu sudah kerjakan belum?\n
+A: Baru paragraf pertama. Kita harus membuat karangan pendek tentang tempat favorit kita, kan?\n
+B: Iya, sekitar 100 sampai 150 kata. Aku menulis tentang rumah nenekku di desa.\n
+A: Wah, keren! Aku mau menulis tentang pantai yang kukunjungi waktu liburan kemarin.\n
+B: Bagus itu! Jangan lupa cek tata bahasa dan ejaannya sebelum dikumpulkan.\n
+A: Makasih sudah diingatkan. Nanti malam aku kerjakan.\n
+B: Oke. Kalau butuh bantuan, kirim pesan aja. Kita bisa belajar bareng online.\n
+A: Wah, asik tuh! Makasih banyak, Rina!\n
+B: Sama-sama! Yuk, kita kerjakan dengan baik biar nilainya bagus.\n
+A: Setuju! Ayo ke perpustakaan setelah makan siang biar bisa diselesaikan.\n
+B: Oke, sampai ketemu di sana!
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_english3">
+Waiter: Good evening! Welcome to Sunny Café. How many people are with you?\n
+Anna: Good evening! Just the two of us, please.\n
+Waiter: Alright. Please follow me. Here’s your table. Would you like to see the menu?\n
+Rina: Yes, please. Thank you.\n
+Waiter: Here you go. I’ll give you a few minutes to decide.\n
+\n
+(A few minutes later…)\n
+\n
+Waiter: Are you ready to order?\n
+Anna: Yes, I think so. I’ll have the grilled chicken with mashed potatoes, please.\n
+Waiter: Would you like any drink with that?\n
+Anna: Yes, I’d like an iced lemon tea.\n
+Waiter: Sure. And for you, Miss?\n
+Rina: I’ll have the spaghetti carbonara and a glass of orange juice, please.\n
+Waiter: Great choice! Would you like any dessert after your meal?\n
+Rina: Hmm, maybe later. I’ll decide after we finish eating.\n
+Waiter: No problem. Your food will be ready in about fifteen minutes.\n
+\n
+(After a while, the waiter returns with the food.)\n
+\n
+Waiter: Here are your orders — grilled chicken and spaghetti carbonara. Enjoy your meal!\n
+Anna: Thank you, it looks delicious!\n
+Rina: Yes, it smells so good.\n
+\n
+(They start eating.)\n
+\n
+Rina: Wow, this pasta tastes amazing. How’s your chicken?\n
+Anna: It’s really good and juicy. I love the sauce.\n
+Rina: I think we should come here again next weekend.\n
+Anna: Definitely! The place is cozy, and the food is great.\n
+\n
+(After finishing their meals…)\n
+\n
+Waiter: How was everything?\n
+Anna: Everything was perfect! Could we get the bill, please?\n
+Waiter: Of course. Here it is.\n
+Rina: Let’s see… okay, we’ll pay together. Here’s the money.\n
+Waiter: Thank you! Have a nice evening.\n
+Anna: You too! Goodbye.
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_indonesia3">
+Pelayan: Selamat malam! Selamat datang di Sunny Café. Berapa orang?\n
+Anna: Selamat malam! Hanya kami berdua.\n
+Pelayan: Baik, silakan ikut saya. Ini mejanya. Apakah Anda ingin melihat menu?\n
+Rina: Ya, tolong. Terima kasih.\n
+Pelayan: Ini menunya. Saya beri waktu sebentar untuk memilih, ya.\n
+\n
+(Beberapa menit kemudian…)\n
+\n
+Pelayan: Sudah siap memesan?\n
+Anna: Ya, saya pesan ayam panggang dengan kentang tumbuk, tolong.\n
+Pelayan: Ingin minum apa dengan itu?\n
+Anna: Saya mau es teh lemon, tolong.\n
+Pelayan: Baik. Kalau Anda, Nona?\n
+Rina: Saya pesan spaghetti carbonara dan segelas jus jeruk, tolong.\n
+Pelayan: Pilihan yang bagus! Apakah ingin pesan pencuci mulut juga?\n
+Rina: Hmm, mungkin nanti setelah makan.\n
+Pelayan: Tidak masalah. Makanannya akan siap sekitar lima belas menit.\n
+\n
+(Beberapa saat kemudian, pelayan datang membawa makanan.)\n
+\n
+Pelayan: Ini pesanannya — ayam panggang dan spaghetti carbonara. Selamat menikmati!\n
+Anna: Terima kasih, kelihatannya enak sekali!\n
+Rina: Iya, aromanya juga menggugah selera.\n
+\n
+(Mereka mulai makan.)\n
+\n
+Rina: Wah, pastanya enak banget. Bagaimana ayammu?\n
+Anna: Sangat enak dan lembut. Aku suka sausnya.\n
+Rina: Kita harus datang lagi ke sini minggu depan.\n
+Anna: Setuju! Tempatnya nyaman, dan makanannya luar biasa.\n
+\n
+(Setelah selesai makan…)\n
+\n
+Pelayan: Bagaimana makanannya?\n
+Anna: Semuanya sempurna! Bisa minta tagihannya, ya?\n
+Pelayan: Tentu, ini dia.\n
+Rina: Baik, kita bayar bersama saja. Ini uangnya.\n
+Pelayan: Terima kasih! Selamat malam.\n
+Anna: Sama-sama! Sampai jumpa.
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_english4">
+Lisa: Good afternoon! Wow, your store looks beautiful.\n
+Store Owner (Mrs. Maya): Good afternoon! Thank you very much. Welcome to Maya’s Fashion Boutique. How can I help you today?\n
+Lisa: I’m looking for a dress to wear to my cousin’s wedding next week.\n
+Mrs. Maya: Wonderful! Do you have any particular color or style in mind?\n
+Lisa: Hmm, maybe something pastel — light blue or pink. And I prefer something not too formal.\n
+Mrs. Maya: I see. Let me show you some of our newest collection. Here’s a light blue dress made from chiffon, and this one is pink with floral patterns.\n
+Lisa: Oh, they’re both so pretty! How much is the blue one?\n
+Mrs. Maya: That one is 450,000 rupiah. It’s on sale this week.\n
+Lisa: Really? That’s a good price. Can I try it on?\n
+Mrs. Maya: Of course. The fitting room is right over there, next to the mirror.\n
+\n
+(Lisa tries on the dress.)\n
+\n
+Lisa: It fits perfectly! I love the color and the fabric.\n
+Mrs. Maya: Yes, it looks great on you. The color matches your skin tone very well.\n
+Lisa: Thank you! I think I’ll take this one.\n
+Mrs. Maya: Excellent choice. Would you like me to pack it as a gift?\n
+Lisa: No, thank you. I’ll wear it myself. Oh, do you also sell accessories here?\n
+Mrs. Maya: Yes, we do. We have necklaces, earrings, and handbags right over there.\n
+Lisa: Hmm, that white handbag looks nice. How much is it?\n
+Mrs. Maya: It’s 250,000 rupiah, but if you buy it with the dress, I can give you a 10% discount.\n
+Lisa: That sounds great! I’ll take both.\n
+Mrs. Maya: Perfect. Let me pack them for you.\n
+\n
+(After packing the items...)\n
+\n
+Mrs. Maya: Here you go. Thank you for shopping at Maya’s Fashion Boutique.\n
+Lisa: Thank you, Mrs. Maya! I’ll definitely come back again.\n
+Mrs. Maya: You’re welcome. Have a wonderful day!
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_indonesia4">
+Lisa: Selamat siang! Wah, toko Anda terlihat indah sekali.\n
+Pemilik Toko (Bu Maya): Selamat siang! Terima kasih banyak. Selamat datang di Maya’s Fashion Boutique. Ada yang bisa saya bantu hari ini?\n
+Lisa: Saya sedang mencari gaun untuk dipakai ke pernikahan sepupu saya minggu depan.\n
+Bu Maya: Wah, bagus sekali! Apakah ada warna atau model tertentu yang kamu inginkan?\n
+Lisa: Hmm, mungkin warna pastel — biru muda atau pink. Dan saya ingin yang tidak terlalu formal.\n
+Bu Maya: Baik, saya tunjukkan beberapa koleksi terbaru kami. Ini ada gaun biru muda dari bahan sifon, dan yang ini berwarna pink dengan motif bunga.\n
+Lisa: Wah, dua-duanya cantik sekali! Berapa harga yang biru itu?\n
+Bu Maya: Yang biru harganya 450 ribu rupiah. Minggu ini sedang diskon.\n
+Lisa: Benarkah? Harganya cukup bagus. Boleh saya coba?\n
+Bu Maya: Tentu saja. Ruang ganti ada di sana, di sebelah cermin.\n
+\n
+(Lisa mencoba gaunnya.)\n
+\n
+Lisa: Pas sekali! Aku suka warnanya dan bahannya juga lembut.\n
+Bu Maya: Ya, sangat cocok di kamu. Warnanya sesuai dengan warna kulitmu.\n
+Lisa: Terima kasih! Saya ambil yang ini.\n
+Bu Maya: Pilihan yang bagus. Mau saya bungkus sebagai hadiah?\n
+Lisa: Tidak usah, terima kasih. Saya akan pakai sendiri. Oh iya, apakah di sini juga menjual aksesori?\n
+Bu Maya: Ya, kami punya kalung, anting, dan tas tangan di sana.\n
+Lisa: Hmm, tas tangan putih itu bagus ya. Berapa harganya?\n
+Bu Maya: Harganya 250 ribu rupiah, tapi kalau kamu beli bersamaan dengan gaun, saya kasih diskon 10%.\n
+Lisa: Wah, bagus sekali! Saya ambil dua-duanya.\n
+Bu Maya: Baik, saya bungkuskan dulu ya.\n
+\n
+(Setelah selesai dibungkus...)\n
+\n
+Bu Maya: Ini dia. Terima kasih sudah berbelanja di Maya’s Fashion Boutique.\n
+Lisa: Terima kasih, Bu Maya! Saya pasti akan datang lagi.\n
+Bu Maya: Sama-sama. Semoga harimu menyenangkan!
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_english5">
+Rina: Hey, Dika! What are you reading?\n
+Dika: Oh, hi Rina! I’m reading this book called The Secret Garden.\n
+Rina: The Secret Garden? Hmm, I think I’ve heard about it before. What book is this about?\n
+Dika: It’s a classic novel written by Frances Hodgson Burnett. It tells the story of a girl named Mary Lennox who discovers a hidden garden and learns about friendship and kindness.\n
+Rina: That sounds interesting! Is it difficult to read?\n
+Dika: Not really. The language is a bit old-fashioned, but once you get used to it, it’s easy to understand.\n
+Rina: I see. Where did you get that book?\n
+Dika: I borrowed it from the school library yesterday. They just got some new English novels.\n
+Rina: Wow, that’s cool. I love reading English stories too. How many pages does it have?\n
+Dika: Around 250 pages, but it’s really fun, so it doesn’t feel that long.\n
+Rina: Do you usually read English books?\n
+Dika: Yes, I try to read at least one book every month. It helps me learn new vocabulary.\n
+Rina: That’s a good idea. Maybe I should start doing that too.\n
+Dika: You should! If you like mysteries or adventure, I can recommend some good ones.\n
+Rina: Oh, I’d love that! After you finish The Secret Garden, can you lend it to me?\n
+Dika: Sure, no problem. I’ll finish it in two or three days.\n
+Rina: Great! Thank you so much, Dika.\n
+Dika: You’re welcome! Maybe we can discuss it together after you read it.\n
+Rina: That would be fun! Okay, see you later.\n
+Dika: See you, Rina!
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_indonesia5">
+Rina: Hei, Dika! Kamu sedang baca apa?\n
+Dika: Oh, hai Rina! Aku sedang membaca buku yang berjudul The Secret Garden.\n
+Rina: The Secret Garden? Hmm, sepertinya aku pernah dengar. Buku itu tentang apa?\n
+Dika: Itu novel klasik karya Frances Hodgson Burnett. Ceritanya tentang seorang gadis bernama Mary Lennox yang menemukan taman rahasia dan belajar tentang persahabatan serta kebaikan hati.\n
+Rina: Wah, kedengarannya menarik! Apakah sulit dibaca?\n
+Dika: Tidak terlalu. Bahasanya agak kuno, tapi kalau sudah terbiasa, mudah dipahami.\n
+Rina: Oh begitu. Kamu dapat buku itu dari mana?\n
+Dika: Aku pinjam dari perpustakaan sekolah kemarin. Mereka baru saja dapat beberapa novel berbahasa Inggris.\n
+Rina: Wah, keren! Aku juga suka membaca cerita berbahasa Inggris. Bukunya tebal nggak?\n
+Dika: Sekitar 250 halaman, tapi ceritanya seru, jadi nggak terasa lama.\n
+Rina: Kamu sering baca buku bahasa Inggris ya?\n
+Dika: Iya, aku usahakan baca satu buku setiap bulan. Itu membantu aku menambah kosa kata.\n
+Rina: Ide bagus tuh. Mungkin aku juga harus mulai begitu.\n
+Dika: Harus coba! Kalau kamu suka cerita misteri atau petualangan, aku bisa rekomendasikan beberapa buku bagus.\n
+Rina: Wah, aku mau! Setelah kamu selesai baca The Secret Garden, bisa pinjamkan ke aku?\n
+Dika: Tentu, nggak masalah. Aku akan selesai dalam dua atau tiga hari.\n
+Rina: Baik, terima kasih banyak ya, Dika!\n
+Dika: Sama-sama! Nanti setelah kamu baca, kita bahas bareng, yuk.\n
+Rina: Seru tuh! Oke, sampai nanti.\n
+Dika: Sampai jumpa, Rina!
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_ant_grasshopper_english1">
+Once upon a time, in a sunny meadow, there lived a hardworking ant and a cheerful grasshopper.\n
+Every day, the ant worked from morning until evening, collecting grains of wheat and carrying them to his home. He was preparing for the cold winter that would soon come.\n
+\n
+Meanwhile, the grasshopper spent his days singing, playing the violin, and enjoying the warm sunshine.\n
+He often laughed at the ant and said,\n
+“Why do you work so hard, my friend? Come and sing with me! Life is too short to waste on work.”\n
+\n
+The ant replied,\n
+“I’m storing food for the winter. You should do the same before it’s too late.”\n
+\n
+But the grasshopper just smiled and continued to sing.\n
+Weeks passed, and soon the warm summer turned into a cold winter.\n
+Snow covered the meadow, and there was no more food to be found.\n
+\n
+The grasshopper shivered in the freezing wind. He was hungry and weak. Then he remembered the hardworking ant.\n
+He went to the ant’s house and knocked on the door.\n
+“Dear Ant,” he said softly, “I’m so cold and hungry. Could you please share some of your food with me?”\n
+\n
+The ant looked at him kindly but said,\n
+“Grasshopper, all summer long I worked hard while you sang and danced. Now I have food because I prepared for this moment.”\n
+\n
+The grasshopper hung his head sadly and realized his mistake.\n
+From that day on, he promised to work hard and plan for the future.\n
+\n
+Moral of the story:\n
+There is a time for work and a time for play. Those who work hard and plan ahead will never go hungry.
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_ant_grasshopper_indo1">
+Pada suatu hari di padang rumput yang cerah, hiduplah seekor semut yang rajin dan seekor belalang yang ceria.\n
+Setiap hari, semut bekerja dari pagi sampai sore, mengumpulkan biji-bijian dan membawanya ke rumahnya. Ia sedang mempersiapkan diri untuk musim dingin yang segera tiba.\n
+\n
+Sementara itu, belalang menghabiskan harinya dengan bernyanyi, bermain biola, dan menikmati hangatnya sinar matahari.\n
+Ia sering menertawakan si semut dan berkata,\n
+“Kenapa kamu bekerja begitu keras, temanku? Ayo bernyanyi bersamaku! Hidup ini terlalu singkat untuk dihabiskan dengan bekerja.”\n
+\n
+Si semut menjawab,\n
+“Aku sedang menyimpan makanan untuk musim dingin. Kamu sebaiknya melakukan hal yang sama sebelum terlambat.”\n
+\n
+Namun belalang hanya tersenyum dan terus bernyanyi.\n
+Waktu berlalu, dan musim panas yang hangat berubah menjadi musim dingin yang sangat dingin.\n
+Salju menutupi padang rumput, dan tidak ada lagi makanan yang bisa ditemukan.\n
+\n
+Belalang menggigil kedinginan dan merasa sangat lapar. Ia teringat pada semut yang rajin.\n
+Ia pun pergi ke rumah semut dan mengetuk pintu.\n
+“Hai Semut,” katanya dengan lemah, “Aku kedinginan dan lapar. Bisakah kamu berbagi sedikit makananmu denganku?”\n
+\n
+Semut menatapnya dengan penuh iba, tetapi berkata,\n
+“Belalang, sepanjang musim panas aku bekerja keras sementara kamu hanya bernyanyi dan menari. Sekarang aku punya makanan karena aku mempersiapkannya sejak dulu.”\n
+\n
+Belalang menundukkan kepala dan menyesali perbuatannya.\n
+Sejak hari itu, ia berjanji akan bekerja keras dan belajar untuk merencanakan masa depan.\n
+\n
+Pesan moral:\n
+Ada waktu untuk bekerja dan ada waktu untuk bersenang-senang. Siapa yang rajin dan mau mempersiapkan diri, tidak akan kekurangan di kemudian hari.
+    </string>
+
+    <string name="story_lion_mouse_english">
+One day, a lion was sleeping under a tree.\n
+A little mouse ran over his paw and woke him up.\n
+The lion roared angrily, “Who dares to wake me?”\n
+\n
+The mouse trembled and said, “I’m sorry, King of the Jungle. Please let me go. Maybe someday I can help you.”\n
+\n
+The lion laughed, “You? Help me? Hahaha! But fine, I’ll let you go.”\n
+He released the mouse.\n
+\n
+A few days later, the lion was caught in a hunter’s net.\n
+He roared loudly for help. The little mouse heard him and ran to the spot.\n
+He bit the ropes with his tiny teeth until the lion was free.\n
+\n
+The lion smiled and said, “Thank you, little friend. You really helped me today.”\n
+The mouse replied, “Even small friends can be great helpers.”\n
+\n
+Moral: Kindness is never wasted.
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_lion_mouse_indo">
+Suatu hari, seekor singa sedang tidur di bawah pohon.\n
+Seekor tikus kecil berlari di atas kakinya dan membangunkannya.\n
+Singa itu marah dan mengaum, “Siapa yang berani membangunkanku?”\n
+\n
+Tikus itu gemetar dan berkata, “Maaf, Raja Hutan. Tolong lepaskan aku. Mungkin suatu hari nanti aku bisa menolongmu.”\n
+\n
+Singa tertawa, “Kamu? Menolong aku? Hahaha! Tapi baiklah, aku akan melepaskanmu.”\n
+Ia pun membiarkan tikus itu pergi.\n
+\n
+Beberapa hari kemudian, singa terjebak dalam jaring pemburu.\n
+Ia mengaum minta tolong. Tikus kecil mendengar dan segera datang.\n
+Ia menggigit tali jaring sampai singa bebas.\n
+\n
+Singa tersenyum dan berkata, “Terima kasih, teman kecil. Kamu benar-benar menolongku.”\n
+Tikus menjawab, “Bahkan teman kecil pun bisa memberi bantuan besar.”\n
+\n
+Pesan moral: Kebaikan sekecil apa pun tidak akan sia-sia.
+    </string>
+
+    <!-- Cerita Bahasa Inggris -->
+    <string name="story_tortoise_hare_english">
+One day, a hare was boasting about how fast he could run.\n
+He laughed at the tortoise for being so slow.\n
+\n
+“You will never win against me!” said the hare proudly.\n
+The tortoise smiled and replied, “Let’s have a race and see.”\n
+\n
+Everyone in the forest came to watch.\n
+When the race started, the hare ran very fast and soon left the tortoise far behind.\n
+Feeling confident, the hare decided to take a nap under a tree.\n
+\n
+Meanwhile, the tortoise kept walking slowly but steadily.\n
+He never stopped or gave up.\n
+When the hare woke up, the tortoise was almost at the finish line!\n
+\n
+The hare ran as fast as he could, but it was too late.\n
+The tortoise crossed the finish line first.\n
+\n
+The tortoise said, “Slow and steady wins the race.”\n
+\n
+Moral: Don’t be arrogant; consistency and patience lead to success.
+    </string>
+
+    <!-- Cerita Bahasa Indonesia -->
+    <string name="story_tortoise_hare_indo">
+Suatu hari, seekor kelinci membanggakan dirinya karena bisa berlari sangat cepat.\n
+Ia menertawakan kura-kura yang berjalan lambat.\n
+\n
+“Kamu tidak akan pernah menang melawanku!” kata kelinci dengan sombong.\n
+Kura-kura tersenyum dan menjawab, “Ayo kita lomba lari dan buktikan.”\n
+\n
+Semua hewan di hutan datang untuk menonton.\n
+Saat lomba dimulai, kelinci berlari dengan cepat dan meninggalkan kura-kura jauh di belakang.\n
+Karena merasa yakin akan menang, kelinci berhenti dan tidur di bawah pohon.\n
+\n
+Sementara itu, kura-kura terus berjalan perlahan tapi pasti.\n
+Ia tidak berhenti dan tidak menyerah.\n
+Ketika kelinci terbangun, kura-kura sudah hampir sampai di garis akhir!\n
+\n
+Kelinci berlari sekencang mungkin, tapi sudah terlambat.\n
+Kura-kura berhasil mencapai garis akhir terlebih dahulu.\n
+\n
+Kura-kura berkata, “Pelan tapi pasti akan menang dalam perlombaan.”\n
+\n
+Pesan moral: Jangan sombong; ketekunan dan kesabaran membawa kesuksesan.
+    </string>
+
+    <string name="english_story">
+        Once upon a time, there was a young shepherd boy who looked after a flock of sheep near his village.\n
+        He was bored and wanted to have some fun.\n\n
+        One day, he shouted, "Wolf! Wolf! There’s a wolf chasing the sheep!"\n
+        The villagers ran to help him, but when they arrived, there was no wolf.\n
+        The boy laughed and said, "I was just joking!"\n\n
+        A few days later, he did it again.\n
+        "Wolf! Wolf!" he shouted.\n
+        The villagers came running once more, but again, there was no wolf.\n
+        They were angry and said, "Don’t lie to us again!"\n\n
+        Then one evening, a real wolf came out of the forest and attacked the sheep.\n
+        The boy was terrified and cried loudly, "Wolf! Wolf! Please help me!"\n
+        But this time, no one came because the villagers thought he was lying again.\n\n
+        The wolf chased all the sheep away, and the boy was left crying alone.\n\n
+        Moral: No one believes a liar, even when he tells the truth.
+    </string>
+
+    <string name="indonesian_story">
+        Pada suatu hari, ada seorang anak gembala muda yang menjaga domba-dombanya di dekat desa.\n
+        Ia merasa bosan dan ingin bersenang-senang.\n\n
+        Suatu hari ia berteriak, "Serigala! Serigala! Ada serigala mengejar domba!"\n
+        Penduduk desa berlari datang untuk menolongnya, tetapi ketika mereka tiba, tidak ada serigala.\n
+        Anak itu tertawa dan berkata, "Aku hanya bercanda!"\n\n
+        Beberapa hari kemudian, ia melakukan hal yang sama.\n
+        "Serigala! Serigala!" teriaknya.\n
+        Penduduk desa kembali berlari, tetapi lagi-lagi tidak ada serigala.\n
+        Mereka marah dan berkata, "Jangan bohong lagi!"\n\n
+        Namun pada suatu malam, seekor serigala sungguhan datang dari hutan dan menyerang domba.\n
+        Anak gembala ketakutan dan berteriak keras, "Serigala! Serigala! Tolong aku!"\n
+        Tetapi kali ini, tidak ada yang datang, karena penduduk desa mengira ia berbohong lagi.\n\n
+        Serigala pun memakan domba-dombanya, dan anak itu menangis sendirian.\n\n
+        Pesan moral: Tidak ada yang akan mempercayai orang pembohong, bahkan ketika ia berkata jujur.
+    </string>
+
+
+</resources>
